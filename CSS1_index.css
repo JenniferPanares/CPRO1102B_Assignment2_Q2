@@ -1,0 +1,14 @@
+  body {
+		font-family: 'Arial', sans-serif;
+		background-color: #f6f6f6;
+		margin: 1%;
+		padding: 1%;
+		background-image: url('background.jpg');
+        }
+		
+/* container */
+
+	.source {
+		font-size: .8em
+
+	}
